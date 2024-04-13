@@ -84,6 +84,6 @@ object ramiro {
 object spa {
 	method atender(persona){
 		persona.seDaBanoDeVapor()
-		persona.recibeMensajes()
+		persona.recibeMasajes()
 	}
 }
